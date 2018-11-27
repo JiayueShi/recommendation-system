@@ -19,10 +19,10 @@ object TrackHashTags {
 
     // Set the system properties so that Twitter4j library used by twitter stream
     // can use them to generate OAuth credentials
-    val consumerKey = "SxbNIoG7GiilAwbylHEtYJgNt"
-    val consumerSecret = "HvdhruYesRozcQbAy7oJYokObwtdvbAfQrgIbP4ykKJeajN0X6"
-    val accessToken = "986059857311641601-xy14aoe6esJVtCePE2jVvZjfFLHCagd"
-    val accessTokenSecret = "DaTpBqFXHISgfELAsUHyUs1t5iOA5fGbIp24D6Drqcoez"
+    val consumerKey = ""
+    val consumerSecret = ""
+    val accessToken = ""
+    val accessTokenSecret = ""
 
     System.setProperty("twitter4j.oauth.consumerKey", consumerKey)
     System.setProperty("twitter4j.oauth.consumerSecret", consumerSecret)
